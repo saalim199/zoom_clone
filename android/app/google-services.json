@@ -12,7 +12,20 @@
           "package_name": "com.example.zoom_clone"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "36303029316-rr4udtvav91bjbebvi7v1f05j9i80ea2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zoom_clone",
+            "certificate_hash": "c35983704c7f53966125e518b2fd6b7fdfc8e5e0"
+          }
+        },
+        {
+          "client_id": "36303029316-tt2hijk1dlug06ui7iocud5883upqgfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyDRPnJhgZQagokkZFf6feoPhJsLRb00hTk"
@@ -20,7 +33,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36303029316-tt2hijk1dlug06ui7iocud5883upqgfv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
